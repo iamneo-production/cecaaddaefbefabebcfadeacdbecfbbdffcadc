@@ -1,0 +1,106 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    color: white;
+}
+
+body{
+    background:url("https://besthqwallpapers.com/Uploads/12-7-2021/169555/avengers-carbon-logo-4k-grunge-art-carbon-background-creative.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    width: 80px;
+}
+
+#TitleName{
+    width: 100%;
+    text-align: center;
+}
+
+#popularHeros{
+    position: absolute;
+    margin-top: 10%;
+    left: 15%;
+    display: inline-block;
+}
+
+#superHeros1{
+    position: absolute;
+    top: 35%;
+    left: 10%;
+}
+
+#superHeros2{
+    position: absolute;
+    top: 35%;
+    left: 22%;
+}
+
+#superHeros3{
+    position: absolute;
+    top: 35%;
+    left: 33%;
+}
+
+#superHerosName1{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+}
+
+#superHerosName2{
+    position: absolute;
+    top: 50%;
+    left: 23%;
+}
+
+#superHerosName3 {
+    position: absolute;
+    top: 50%;
+    left: 31%;
+}
+
+#popularVillains{
+    position: absolute;
+    top: 29%;
+    left: 58%;
+}
+
+#superVillain1{
+    position: absolute;
+    top: 35%;
+    left: 55%;
+}
+
+#superVillain2{
+    position: absolute;
+    top: 35%;
+    left: 65%;
+}
+
+#superVillain3 {
+    position: absolute;
+    top: 35%;
+    left: 75%;
+}
+
+#superVillainName1{
+    position: absolute;
+    left: 57%;
+    top: 54%;
+}
+
+#superVillainName2{
+    position: absolute;
+    left: 65%;
+    top: 53%;
+}
+
+#superVillainName3 {
+    position: absolute;
+    top: 53%;
+    left: 75%;
+}
